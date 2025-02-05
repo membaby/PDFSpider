@@ -3,6 +3,8 @@
 
 PDF Spider is a Python-based web scraping application designed to search for and download PDF files from websites. It features a graphical user interface (GUI) powered by PyQt5, enabling easy interaction with the software. The tool is multi-threaded, highly customizable, and allows you to control the scraping depth and domain traversal options.
 
+NOTE: this tool was created to scrape PDFs from a certain website. It has been generalized to serve all websites but keep in mind that some websites would block the tool or would require additional headers or so.
+
 ## Features
 
 - **PDF File Downloading**: Automatically locates and downloads PDF files from websites.
